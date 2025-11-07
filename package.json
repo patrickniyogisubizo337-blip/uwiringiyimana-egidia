@@ -1,0 +1,18 @@
+{
+  "name": "thursday-session",
+  "version": "1.0.0",
+  "description": "this is my first node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "igiraneza goeffrey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "nstall": "^0.2.0"
+  }
+}
+
