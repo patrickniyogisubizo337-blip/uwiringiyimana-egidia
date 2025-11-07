@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"nodemon index.js"
   },
-  "author": "igiraneza goeffrey",
+  "author": "uwiringiyimana egidia",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0",
